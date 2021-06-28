@@ -683,7 +683,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #206bfb;
   }
 }
-@media (max-width: 325px) {
+@media (max-width: 350px) {
   #hero .img {
     width: 100%;
   }
@@ -694,7 +694,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     transition: 0.4s;
     border-radius: 4px;
-    margin-left: 80px;
+    margin-left: 70px;
     width: 80%;
   }
   
